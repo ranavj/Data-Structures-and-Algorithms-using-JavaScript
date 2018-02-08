@@ -1,5 +1,5 @@
 function HashTable() {
-    this.tableSize = 0;
+    this.tableSize = 0;dsd
     this.tableSize = 512;
     this.listArray = new Array(this.tableSize);
     for (var i = 0; i < this.tableSize; i++) {
